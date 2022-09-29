@@ -25,8 +25,8 @@ Nice to see you, My name is Ngo Duc Hoang Son, and I am:
 #### Feel free to contact me 🥰 at:
 
 <p>
-  <a href="mailto:hoangsonngo555@gmail.com">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://www.facebook.com/pinanek23/">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
   <a href="mailto:hoangsonngo555@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
