@@ -1,7 +1,7 @@
 # Hi there 🙃
 
 Nice to see you, My name is Ngo Duc Hoang Son, and I am:
-- A four-year **InfoSec** student at VNUHCM - University of Information Technology (UIT)
+- A fourth-year **InfoSec** student at VNUHCM - University of Information Technology (UIT)
 - A **noob** 😎
 
 #### Things i have coded:
@@ -15,12 +15,6 @@ Nice to see you, My name is Ngo Duc Hoang Son, and I am:
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
-
-#### I'm currently learning:
-- 🧑‍💻 Cyber security
-- 🤖 Machine learning
-- 📄 Writting blog
-
 
 #### Feel free to contact me 🥰 at:
 
