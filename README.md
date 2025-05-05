@@ -1,3 +1,5 @@
-## Hi you 😗
+## You there! I'm pinanek 😼
 
-![Typing tuxedo cat](assets/typing-tuxedo-cat.gif)
+<p style="text-align: center;">
+  <img src="assets/typing-tuxedo-cat.gif" alt="Typing tuxedo cat" width="400" />
+</p>
